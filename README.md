@@ -1,1 +1,2 @@
-# covid_analysis
+# County-Level Analysis of COVID-19 Vaccination Rates
+
