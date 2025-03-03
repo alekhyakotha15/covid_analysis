@@ -7,7 +7,7 @@ This project analyzes county-level COVID-19 vaccination rates across the U.S. to
 
 The primary objectives of this project are as follows:
 
-•	Analyzing vaccination data at the county level in the United States to identify variations in vaccination rates among communities.
-•	Examining the role of vaccine hesitancy in shaping vaccination behavior.
-•	Identifying counties with significantly higher or lower vaccination rates compared to neighboring areas and investigate underlying reasons.
-•	Determining how different age groups influence the vaccination rates at county level.
+- Analyzing vaccination data at the county level in the United States to identify variations in vaccination rates among communities.
+- Examining the role of vaccine hesitancy in shaping vaccination behavior.
+- Identifying counties with significantly higher or lower vaccination rates compared to neighboring areas and investigate underlying reasons.
+- Determining how different age groups influence the vaccination rates at county level.
